@@ -1,5 +1,16 @@
 ## Olá eu sou o Jonathas Nunes, desenvolverdor back-end!
 
+
+🌱 I’m currently learning - Laravel
+
+👨‍💻 All of my projects are available at:
+
+💬 Ask me about PHP, LARAVEL, MYSQL, HTML/CSS
+
+📫 How to reach me jonathas.ns1509@gmail.com
+
+⚡ Fun fact Oneye 😜
+
 <div>
   <a href="https://github.com/jonathasn15">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonathasn15&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
