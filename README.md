@@ -38,7 +38,7 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://mangatar.framiq.com/pt/salvar/?av=ba-008-014_bg-037-000_bl-022-000000_bt-095-000004_eb-006-000_ey-002-000_fa-016-000_fa-012-002_fc-000-008_fh-013-000_ha-000-000_hr-031-000_mo-000-000_no-000-000_sh-001-000&v=0">
+<img align="right" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/52537183/163300996-ddad0db4-9005-4994-94f6-65c40a6a46f8.png">
 </div>
 
 </div>
