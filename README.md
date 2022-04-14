@@ -2,7 +2,7 @@
 <h3 align="center">A full stack developer passionate about php</h3></br>
 
 <div align="center" >
-	<a href="https://www.linkedin.com/in/jonathasnunes-developer/" target="_blank" rel="noopener noreferrer">
+	<a href="https://www.linkedin.com/in/jonathasnunes-developer/" target="_blank">
 	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href=""target="_blank" rel="noopener noreferrer">
