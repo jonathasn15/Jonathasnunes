@@ -38,7 +38,7 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-<img align="right" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/52537183/163300996-ddad0db4-9005-4994-94f6-65c40a6a46f8.png">
+<img align="right" height="150" style="border-radius:100px;" src="https://user-images.githubusercontent.com/52537183/163300996-ddad0db4-9005-4994-94f6-65c40a6a46f8.png">
 </div>
 
 </div>
