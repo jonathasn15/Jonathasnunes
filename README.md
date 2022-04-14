@@ -17,7 +17,7 @@
 
 👨‍💻 All of my projects are available at:
 
-💬 Ask me about PHP, LARAVEL, MYSQL, HTML/CSS
+💬 Ask me about PHP, LARAVEL,NODE, REACT, MYSQL, JAVASCRIPT, HTML/CSS
 
 📫 How to reach me jonathas.ns1509@gmail.com
 
